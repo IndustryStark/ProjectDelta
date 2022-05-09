@@ -7,7 +7,7 @@ and keep track of each Investment one by one. What If we let people Invest in on
 Yes its been used for Stocks as of Known ETFs. And there are more ETFs trading on the Stockmarket then the Stocks itself. We spread the 
 Eggs for you. We take care of the diversification for you. For that we will charge you a performance Fee only if you made some Profit!
 
-Well in which point is the DeFi itself? Well once the Contract is Deployed and created we will have a self sustaining system, for know 
+Well in which point is the DeFi itself? Well once the Contract is Deployed and created we will aimn to have a self sustaining system, for know 
 it will be on beta and have some upgradeable parts. Untill we have a sustainable and working product we will run on Beta. 
 After a Successfull working Product, it will be decentralized and self Sustaining. New DecentralizedExchangeTradedFunds (DETF)'s will 
 be on their way, as soon we are comfortable that the Product fits our Expectations. 
