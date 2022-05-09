@@ -13,7 +13,7 @@ After a Successfull working Product, it will be decentralized and self Sustainin
 be on their way, as soon we are comfortable that the Product fits our Expectations. 
 
 
-################################################ LATER ON TO BE BUILD ################################################################
+############################ LATER ON TO BE BUILD ############################
 
 Later on we will host a DAO to take the Decentralization of ProjectDelta a step further. Truly Decentrailzed and decided by the People 
 who are willing to commit for the future of Decentralization
